@@ -21,3 +21,10 @@ CSV → Python (Extract & Transform) → Data Quality Checks → Snowflake Table
 
 ## Use Case
 Designed to showcase ETL and Data Engineering skills for modern data platforms.
+
+## What This Project Demonstrates
+- Designing batch ETL pipelines
+- Loading data into a cloud data warehouse (Snowflake)
+- Implementing data quality checks
+- Writing analytics-ready SQL queries
+- Applying STAR-style schema modeling
